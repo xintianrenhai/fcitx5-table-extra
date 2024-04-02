@@ -1,7 +1,7 @@
 [InputMethod]
-Name=Wubi98
+Name=五笔98
 Icon=fcitx-wubi
-Label=五
+Label=98五
 LangCode=zh_CN
 Addon=table
 Configurable=True
